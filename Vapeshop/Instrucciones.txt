@@ -1,0 +1,3 @@
+importar la base de datos en tu sistema gestor de bases de datos.
+colocar el proyecto en la carpeta htdocs o similares.
+darse de cabezazos contra el teclado y divertirse¡siempre se puede mejorar =)
